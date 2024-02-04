@@ -1,0 +1,25 @@
+Date: 17/6/2023
+Time: 1:19
+Phone Number: +918000364886
+Message: Howdy! This message will be sent instantly!
+--------------------
+Date: 17/6/2023
+Time: 1:20
+Phone Number: +918000364886
+Message: Howdy! This message will be sent instantly!
+--------------------
+Date: 17/6/2023
+Time: 1:21
+Phone Number: +918000364886
+Message: This is a scheduled message.
+--------------------
+Date: 17/6/2023
+Time: 1:22
+Phone Number: +918000364886
+Message: This is a scheduled message.
+--------------------
+Date: 17/6/2023
+Time: 16:37
+Phone Number: +918000364886
+Message: This is a scheduled message.
+--------------------
