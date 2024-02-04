@@ -1,0 +1,26 @@
+Idea 1:
+
+so basically what we want to do is to create a model which can suggest us our perfect career path according to our current situation and skillset.
+example a class 10 student can enter his marks and academic skills he gained during this duration of his life and his area of interest in our model , our model will help in choosing his path accordingly for future.after choosing a particular stream he will get further information about the colleges and their entrance examination details . and will keep them updated about the examination details on whatsapp if the student wants to .
+
+
+technologies which are used here:
+
+Machine laerning models
+Computer Vision("in photo clicking" for login  purposes)
+python flask and pipelinig
+web dev..
+
+
+
+Idea 2: saving's suggestion :
+
+so in this project we will ask user his monthly income and lifestyle routine and by getiing these attributes we will suggest him about how he can save as much as possible and will give him methods where he can invest his money and help him to get proper councelling through proper agencies.
+
+
+technologies which are used here:
+
+Machine laerning models
+Computer Vision("in photo clicking" for login  purposes)
+python flask and pipelinig
+web dev..
